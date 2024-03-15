@@ -8,6 +8,7 @@ public class Filme {
     private int totalDeAvaliacoes;
     private int duracaoEmMinutos;
 
+    
     public int getTotalDeAvaliacoes() {
         return totalDeAvaliacoes;
     }
